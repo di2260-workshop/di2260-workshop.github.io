@@ -10,10 +10,11 @@ intro_image_hide_on_mobile: false
 
 # Aim
 
-This workshop has been created as a way of sharing results from the student's
-work during course DI2260 at Warsaw University of Technology.
+This workshop has been created as an outlet for research work of MSc and PhD students.
+The event is aimed at improving cooperation between students and helping them master their skills.
 
 # Scope
 
 To ecompass diverse topics tackled by our students, the scope of the workshop is vast:
-ranging from cybersecurity-releated works to application of machine learning tools.
+ranging from cybersecurity-releated works to application of machine learning tools. The research
+will be presented in different tracks.
