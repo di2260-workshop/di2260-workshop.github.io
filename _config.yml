@@ -2,10 +2,10 @@ baseurl: '/'
 permalink: pretty
 title: 'SSRW 2024'
 
-logo:
-  mobile:  "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
-  desktop_width: "300px"
+#logo:
+#  mobile:  "images/logo/logo-mobile.svg"
+#  desktop: "images/logo/logo.svg"
+#  desktop_width: "300px"
 
 home: 
   limit_services: 2
