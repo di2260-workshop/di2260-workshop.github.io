@@ -1,10 +1,10 @@
 baseurl: '/'
 permalink: pretty
-title: 'CPEE 2023'
+title: 'SSRW 2024'
 
 logo:
-  mobile:  "images/logo/cpee-logo-mobile.svg"
-  desktop: "images/logo/cpee-logo.svg"
+  mobile:  "images/logo/logo-mobile.svg"
+  desktop: "images/logo/logo.svg"
   desktop_width: "300px"
 
 home: 
