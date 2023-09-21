@@ -1,0 +1,24 @@
+main:
+  - name: "About"
+    url: "/about"
+    weight: 2
+  - name: "Submission"
+    url: "/submission"
+    weight: 3
+  - name: "Venue"
+    url: "/venue"
+    weight: 4
+  - name: "Committees"
+    url: "/committees"
+    weight: 5
+  - name: "Contact"
+    url: "/contact"
+    weight: 6
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact"
+    weight: 2

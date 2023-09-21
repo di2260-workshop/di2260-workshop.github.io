@@ -1,0 +1,48 @@
+baseurl: '/'
+permalink: pretty
+title: 'CPEE 2023'
+
+logo:
+  mobile:  "images/logo/cpee-logo-mobile.svg"
+  desktop: "images/logo/cpee-logo.svg"
+  desktop_width: "300px"
+
+home: 
+  limit_services: 2
+
+collections:
+  services:
+    output: true
+    sort_by: weight
+  team:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+
+remote_theme: bchaber/jekyll-serif-theme
+
+plugins:
+  - jekyll-environment-variables
+  - jekyll-remote-theme
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
