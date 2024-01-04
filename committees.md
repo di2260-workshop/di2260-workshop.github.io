@@ -8,8 +8,25 @@ intro_image_hide_on_mobile: false
 
 # Organizing Committee
 
-* ...
+* Radosław Roszczyk
+* Bartosz Chaber
+* Krzysztof Marek
 
 ### Program Committee
 
-* ...
+* Marcin Iwanowski
+* Krzysztof Hryniów
+* Waldemar Graniszewski
+* Kamil Rybiński
+* Włodzimierz Dąbrowski
+* Krzysztof Siwek
+* Bartosz Chaber
+* Michał Śmiałek
+* Bartosz Sawicki
+* Grzegorz Sarwas
+* Radosław Roszczyk
+* Dominik Olszewski
+* Robert Szmurło
+* Tomasz Leś
+* Krzysztof Marek
+* Paweł Piotrowski
