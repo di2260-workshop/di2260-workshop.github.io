@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-description: Spring Student Reasearch Workshop
+description: Student IT/EE Workshop
 bodyClass: page-about
 intro_image: "images/manypixels/conference.svg"
 intro_image_absolute: true
