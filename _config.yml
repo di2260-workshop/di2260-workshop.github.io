@@ -2,10 +2,10 @@ baseurl: '/'
 permalink: pretty
 title: 'SITEE Workshop 2024'
 
-#logo:
+logo:
+  desktop: "images/logo/sitee-2024-logo.png"
+  desktop_width: "202px"
 #  mobile:  "images/logo/logo-mobile.svg"
-#  desktop: "images/logo/logo.svg"
-#  desktop_width: "300px"
 
 home: 
   limit_services: 2
