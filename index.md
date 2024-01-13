@@ -13,7 +13,7 @@ show_call_box: false
 We are thrilled to invite you to **Student IT/EE Workshop** 2024. 
 The workshop will be held on **18.04.2024**.
 
-# Important dates
+### Important dates
 
 * 2024-02-24: Abstract submission deadline
 * 2024-03-09: Notification of acceptance
