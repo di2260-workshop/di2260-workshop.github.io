@@ -15,7 +15,7 @@ The workshop will be held on **18.04.2024**.
 
 ### Important dates
 
-* 2024-03-02 (~2024-02-24~): Abstract submission deadline (**extended**)
+* 2024-03-02: Abstract submission deadline
 * 2024-03-09: Notification of acceptance
 * 2024-04-04: Final paper submission
 * 2024-04-18: Workshop starts!
