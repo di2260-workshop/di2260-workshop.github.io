@@ -15,4 +15,10 @@ The conference will be held at Stara Kotłownia Building at the main campus of W
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ![Stara Kotłownia Building](/images/photos/sk.jpeg){:class="full-width"}
