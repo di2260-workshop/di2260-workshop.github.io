@@ -8,15 +8,17 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
+# Language
+
+All presentations / posters should be in Polish or English language.
+
 # Presentation
 
 The time-slot for each presentations is the same: 8&nbsp;minutes plus 5&nbsp;min. for a disscussion.
 
-All slides should be prepared in English language.
-
 # Poster session
 
-You will be provided with materials for attaching your printed posters to poster stands. The maximum poster size is A3. During the session you should be available in vicinity of your poster stand.
+You will be provided with materials for attaching your printed posters to poster stands. The maximum poster size is A1 (but anything between A4-A1 is acceptable). During the session you should be available in vicinity of your poster stand.
 
 # Registration
 
