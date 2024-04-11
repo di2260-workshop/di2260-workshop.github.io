@@ -13,6 +13,8 @@ show_call_box: false
 We are thrilled to invite you to **Student IT/EE Workshop** 2024. 
 The workshop will be held on **18.04.2024**.
 
+**Conference program is now available at** https://indico.cern.ch/event/1362028/timetable/#20240418
+
 ### Important dates
 
 * 2024-03-02: Abstract submission deadline
