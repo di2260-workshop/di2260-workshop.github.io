@@ -18,7 +18,7 @@ The time-slot for each presentations is the same: 8&nbsp;minutes plus 5&nbsp;min
 
 # Poster session
 
-You will be provided with materials for attaching your printed posters to poster stands. The maximum poster size is A1 (but anything between A4-A1 is acceptable). During the session you should be available in vicinity of your poster stand.
+You will be provided with materials for attaching your printed posters to poster stands. **The poster should be in A1 size** (but posters made from multiple A2-A4 sheets are also acceptable). During the session you should be available in vicinity of your poster stand.
 
 # Registration
 
