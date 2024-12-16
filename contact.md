@@ -9,5 +9,5 @@ intro_image_hide_on_mobile: false
 
 # Contact
 
-If you have any questions or concerns, don't hesistate and write us at sitee2024@pw.edu.pl or directly (bartosz.chaber@pw.edu.pl).
+If you have any questions or concerns, don't hesistate and write us at bartosz.chaber@pw.edu.pl.
 We will try to get back to you as soon as possible.

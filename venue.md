@@ -10,15 +10,4 @@ intro_image_hide_on_mobile: false
 
 # Venue 
 
-The conference will be held at Stara Kotłownia Building at the main campus of WUT, in the room 4/5 on the first floor.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-![Stara Kotłownia Building](/images/photos/sk.jpeg){:class="full-width"}
+The venue will be announced soon.

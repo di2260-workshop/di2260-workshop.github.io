@@ -22,12 +22,12 @@ You will be provided with materials for attaching your printed posters to poster
 
 # Registration
 
-In order to participate in our event you will have to register in [the conference system](https://indico.cern.ch/event/1362028/).
+In order to participate in our event you will have to register in [the conference system](https://indico.cern.ch/event/1490381/).
 
 # Submission
 
 You are invited to submit a paper (3-4 A4 pages in [IEEE format](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn)).
 Each submission will be evaluated by two reviewers.
 
-You can submit your paper after registration in [our conference system](https://indico.cern.ch/event/1362028/).
+You can submit your paper after registration in [our conference system](https://indico.cern.ch/event/1490381/).
 After registering in the `indico.cern.ch` service you can register at our event, and submit a new abstract.
