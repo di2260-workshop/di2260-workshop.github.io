@@ -8,12 +8,14 @@ intro_image_hide_on_mobile: false
 
 # Organizing Committee
 
+* Włodzimierz Dąbrowski
 * Radosław Roszczyk
 * Bartosz Chaber
 * Krzysztof Marek
 
 ### Program Committee
 
+* Maria Ganzha
 * Marcin Iwanowski
 * Krzysztof Hryniów
 * Waldemar Graniszewski
