@@ -15,7 +15,8 @@ The workshop will be held on **24.04.2025**.
 
 ### Important dates
 
-* 2025-03-02: Abstract submission deadline
-* 2025-03-09: Notification of acceptance
+* ~~2025-03-02: Abstract submission deadline~~
+* **2025-03-20: ⚠️ Abstract submission deadline (final extension) ⚠️** 
+* 2025-03-27: Notification of acceptance
 * 2025-04-04: Final paper submission
 * 2025-04-24: Workshop starts!
