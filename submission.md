@@ -15,6 +15,7 @@ All presentations / posters should be in Polish or English language.
 # Presentation
 
 The time-slot for each presentations is the same: 8&nbsp;minutes plus 5&nbsp;min. for a disscussion.
+The conference laptop will be provided for presenters. Slides in PPTX or PDF format should be brought on a USB drive, so they could be copied before the start of the oral session.
 
 # Poster session
 
