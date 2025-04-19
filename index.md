@@ -13,7 +13,7 @@ show_call_box: false
 We are thrilled to invite you to **Student IT/EE Workshop** 2025. 
 The workshop will be held on **24.04.2025**.
 
-**[The program](https://sitee2025.pw.edu.pl/assets/sitee2025-program.pdf) of the workshop is available.**
+**[The program](https://sitee2025.pw.edu.pl/assets/sitee2025-program-v2.pdf) of the workshop is available.**
 
 ### Important dates
 
