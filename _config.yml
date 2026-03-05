@@ -1,10 +1,10 @@
 baseurl: '/'
 permalink: pretty
-title: 'Student IT/EE Workshop 2025'
+title: 'Student IT/EE Workshop 2026'
 
 logo:
-  desktop: "images/logo/sitee-2025-logo.png"
-  desktop_width: "202px"
+#  desktop: "images/logo/sitee-2025-logo.png"
+#  desktop_width: "202px"
 #  mobile:  "images/logo/logo-mobile.svg"
 
 home: 
