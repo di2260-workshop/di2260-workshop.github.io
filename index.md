@@ -10,7 +10,7 @@ show_call_box: false
 
 # Join us!
 
-We are thrilled to invite you to **Student IT/EE Workshop** 2025. 
+We are thrilled to invite you to **Student IT/EE Workshop** 2026. 
 The workshop will be held on **22.04.2026**.
 
 ### Important dates
