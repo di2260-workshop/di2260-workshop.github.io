@@ -32,3 +32,5 @@ Each submission will be evaluated by two reviewers.
 
 You can submit your paper after registration in our conference system - available soon.
 After registering in the converence service you can register at our event, and submit a new abstract.
+
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
