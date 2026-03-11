@@ -30,7 +30,9 @@ In order to participate in our event you will have to register in system.
 You are invited to submit a paper (3-4 A4 pages in [IEEE format](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn)).
 Each submission will be evaluated by two reviewers.
 
-You can submit your paper after registration in our conference system - available soon.
-After registering in the converence service you can register at our event, and submit a new abstract.
+You can submit your paper after registration in our conference system. We are using the CMT conference system.
+Submission link: [https://cmt3.research.microsoft.com/PPRAI2026](https://cmt3.research.microsoft.com/SITEE2026)
+If you are new to CMT you must first create an account.
 
+---
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
