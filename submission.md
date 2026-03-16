@@ -29,7 +29,7 @@ In order to participate in our event you will have to register in system.
 
 You are invited to submit a paper (3-4 A4 pages in [IEEE format](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn)).
 
-For student papers, the supervisor should be listed last on the author list; for PhD students, the primary supervisor should be listed last. Each article will be reviewed by two reviewers.
+For student papers, the supervisor should be listed last on the author list; for PhD students, the primary supervisor should be listed last.
 
 Each submission will be evaluated by two reviewers.
 
