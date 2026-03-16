@@ -28,6 +28,9 @@ In order to participate in our event you will have to register in system.
 # Submission
 
 You are invited to submit a paper (3-4 A4 pages in [IEEE format](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn)).
+
+For student papers, the supervisor should be listed last on the author list; for PhD students, the primary supervisor should be listed last. Each article will be reviewed by two reviewers.
+
 Each submission will be evaluated by two reviewers.
 
 You can submit your paper after registration in our conference system. We are using the CMT conference system.
@@ -35,4 +38,5 @@ Submission link: [https://cmt3.research.microsoft.com/SITEE2026](https://cmt3.re
 If you are new to CMT you must first create an account.
 
 ---
+
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
