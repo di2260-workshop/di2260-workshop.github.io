@@ -31,7 +31,7 @@ You are invited to submit a paper (3-4 A4 pages in [IEEE format](https://www.ove
 Each submission will be evaluated by two reviewers.
 
 You can submit your paper after registration in our conference system. We are using the CMT conference system.
-Submission link: [https://cmt3.research.microsoft.com/PPRAI2026](https://cmt3.research.microsoft.com/SITEE2026)
+Submission link: [https://cmt3.research.microsoft.com/SITEE2026](https://cmt3.research.microsoft.com/SITEE2026)
 If you are new to CMT you must first create an account.
 
 ---
