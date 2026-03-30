@@ -17,5 +17,7 @@ The workshop will be held on **22.04.2026**.
 
 * 2026-04-01: Abstract submission deadline
 * 2026-04-05: Notification of acceptance
-* 2026-04-12: Final paper submission
+* 2026-04-12: Full paper submission date
+* 2026-04-22: Notification of Full paper acceptance date
 * 2026-04-22: Workshop starts!
+* 2026-05-06: Camera-ready submission date
