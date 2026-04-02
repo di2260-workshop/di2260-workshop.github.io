@@ -11,10 +11,10 @@ intro_image_hide_on_mobile: false
 * Włodzimierz Dąbrowski
 * Radosław Roszczyk
 * Bartosz Chaber
-* Krzysztof Marek
 
 ### Program Committee
 
+* Marek Jasiński
 * Maria Ganzha
 * Marcin Iwanowski
 * Krzysztof Hryniów
