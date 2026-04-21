@@ -11,7 +11,7 @@ show_call_box: false
 # Join us!
 
 We are thrilled to invite you to **Student IT/EE Workshop** 2026. 
-The workshop will be held on **22.04.2026**.
+The workshop will be held on **22.04.2026**. See [the current programme](https://sitee.pw.edu.pl/assets/sitee2026-schedule.pdf). 
 
 ### Important dates
 
