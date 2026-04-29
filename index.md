@@ -20,4 +20,4 @@ The workshop will be held on **22.04.2026**. See [the current programme](https:/
 * 2026-04-19: Full paper submission date
 * 2026-04-20: Notification of Full paper acceptance date
 * 2026-04-22: Workshop starts!
-* 2026-05-06: Camera-ready submission date
+* 2026-05-15: Camera-ready submission date
